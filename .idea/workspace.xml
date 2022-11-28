@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2a87ffb0-02f1-44d3-8273-1843e25bdaad" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../..//JAVACode/MavenProject/mytest/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../..//JAVACode/MavenProject/mytest/src/main/resources/com/itheima/mapper/BookMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../..//JAVACode/html/tomcat-demo/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../..//JAVACode/html/tomcat-demo/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../..//JAVACode/html/tomcat-demo/src/main/webapp/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../..//JAVACode/javawebpro/ajax-demo/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../..//JAVACode/javawebpro/ajax-demo/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../..//JAVACode/javawebpro/ajax-demo/src/main/webapp/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../..//JAVACode/javawebpro/cookie-demo/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../..//JAVACode/javawebpro/cookie-demo/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../..//JAVACode/javawebpro/cookie-demo/src/main/webapp/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../..//JAVACode/javawebpro/jsp-demo/jsp-demo/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../..//JAVACode/javawebpro/jsp-demo/jsp-demo/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../..//JAVACode/javawebpro/jsp-demo/jsp-demo/src/main/webapp/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../..//JAVACode/javawebpro/login_signup-demo/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../..//JAVACode/javawebpro/login_signup-demo/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../..//JAVACode/javawebpro/login_signup-demo/src/main/webapp/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../..//JAVACode/javawebpro/mvc-demo/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../..//JAVACode/javawebpro/mvc-demo/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../..//JAVACode/javawebpro/request-demo/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../..//JAVACode/javawebpro/request-demo/src/main/java/loginServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../..//JAVACode/javawebpro/request-demo/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../..//JAVACode/javawebpro/request-demo/src/main/webapp/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../..//JAVACode/javawebpro/testmaven/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../..//JAVACode/javawebpro/tomcat-demo1/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../..//JAVACode/javawebpro/tomcat-demo1/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../..//JAVACode/javawebpro/tomcat-demo2/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../..//JAVACode/javawebpro/tomcat-demo2/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../..//JAVACode/javawebpro/web-servlet-demo/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../..//JAVACode/javawebpro/web-servlet-demo/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../..//JAVACode/javawebpro/web-servlet-demo/src/main/webapp/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../..//JAVACode/maven-demo/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../..//JAVACode/spring/annotation-bean/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../..//JAVACode/spring/annotation-bean/src/main/resources/applicationContext.xml.bak" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../..//JAVACode/spring/annotation-third-bean/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../..//JAVACode/spring/aop-demo/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../..//JAVACode/spring/mybatis/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../..//JAVACode/spring/mybatis/src/main/resources/com/itheima/dao/BrandDao.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../..//JAVACode/spring/spring-datasource/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../..//JAVACode/spring/transactionManager/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../..//JAVACode/spring/transactionManager/src/main/java/com/itheima/service/AccountService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../..//JAVACode/springboot/boot_junit/src/main/java/com/itheima/service/BookService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../..//JAVACode/springboot/boot_mybatis/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../..//JAVACode/springboot/boot_ssm/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../..//JAVACode/springboot/quickstart/src/main/java/com/itheima/QuickstartApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../..//JAVACode/springbootPlus/base-configuration/src/main/java/com/itheima/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../..//JAVACode/springbootPlus/config_file/src/main/java/com/example/ConfigFileApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../..//JAVACode/springbootPlus/config_file/src/main/resources/myconfig.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../..//JAVACode/springbootPlus/config_file2/src/main/resources/application-dev.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../..//JAVACode/springbootPlus/config_file2/src/main/resources/application-pro.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../..//JAVACode/springbootPlus/config_file2/src/main/resources/application-test.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../..//JAVACode/springbootPlus/config_file2/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../..//JAVACode/springbootPlus/junit/src/main/java/com/itheima/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../..//JAVACode/springbootPlus/junit/src/test/java/com/itheima/ApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../..//JAVACode/springbootPlus/mybatis/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../..//JAVACode/springbootPlus/quick_start/src/main/java/com/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../..//JAVACode/springbootPlus/quick_start/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../..//JAVACode/springbootPlus/ssmp/src/main/java/com/ithheima/SsmpApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../..//JAVACode/springbootPlus/ssmp/src/main/java/com/ithheima/controller/BookController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../..//JAVACode/springbootPlus/ssmp/src/main/java/com/ithheima/dao/BookDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../..//JAVACode/springbootPlus/ssmp/src/main/java/com/ithheima/domain/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../..//JAVACode/springbootPlus/ssmp/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../..//JAVACode/springbootPlus/ssmp/src/test/java/com/ithheima/dao/BookDaoTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../..//JAVACode/springmvc/basic_demo/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../..//JAVACode/springmvc/basic_demo/src/main/webapp/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../..//JAVACode/springmvc/exception/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../..//JAVACode/springmvc/exception/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../..//JAVACode/springmvc/exception/src/main/webapp/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../..//JAVACode/springmvc/request_param/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../..//JAVACode/springmvc/request_param/src/main/java/com/itheima/config/ServletContainerInitConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../..//JAVACode/springmvc/request_param/src/main/java/com/itheima/config/SpringMvcConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../..//JAVACode/springmvc/request_param/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../..//JAVACode/springmvc/request_param/src/main/webapp/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../..//JAVACode/springmvc/response/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../..//JAVACode/springmvc/response/src/main/java/com/itheima/config/ServletContainerInitConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../..//JAVACode/springmvc/response/src/main/java/com/itheima/config/SpringMvcConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../..//JAVACode/springmvc/response/src/main/java/com/itheima/controller/UserController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../..//JAVACode/springmvc/response/src/main/java/com/itheima/domain/Address.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../..//JAVACode/springmvc/response/src/main/java/com/itheima/domain/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../..//JAVACode/springmvc/response/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../..//JAVACode/springmvc/response/src/main/webapp/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../..//JAVACode/springmvc/response/target/classes/com/itheima/config/ServletContainerInitConfig.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../..//JAVACode/springmvc/response/target/classes/com/itheima/config/SpringMvcConfig.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../..//JAVACode/springmvc/response/target/classes/com/itheima/controller/UserController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../..//JAVACode/springmvc/response/target/classes/com/itheima/domain/Address.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../..//JAVACode/springmvc/response/target/classes/com/itheima/domain/User.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../..//JAVACode/springmvc/response/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../..//JAVACode/springmvc/response/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../..//JAVACode/springmvc/response/target/tomcat/conf/logging.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../..//JAVACode/springmvc/response/target/tomcat/conf/tomcat-users.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../..//JAVACode/springmvc/response/target/tomcat/conf/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../..//JAVACode/springmvc/response/target/tomcat/logs/access_log.2022-09-24" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../..//JAVACode/springmvc/response/target/tomcat/work/Tomcat/localhost/response/org/apache/jsp/index_jsp.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../..//JAVACode/springmvc/response/target/tomcat/work/Tomcat/localhost/response/org/apache/jsp/index_jsp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../..//JAVACode/springmvc/rest-demo/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../..//JAVACode/springmvc/rest-demo/src/main/java/com/itheima/config/SpringMvcConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../..//JAVACode/springmvc/rest-demo/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../..//JAVACode/springmvc/rest/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../..//JAVACode/springmvc/rest/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../..//JAVACode/springmvc/rest/src/main/webapp/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../..//JAVACode/springmvc/result/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../..//JAVACode/springmvc/result/src/main/java/com/itheima/config/JdbcConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../..//JAVACode/springmvc/result/src/main/java/com/itheima/config/MybatisConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../..//JAVACode/springmvc/result/src/main/java/com/itheima/config/ServletConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../..//JAVACode/springmvc/result/src/main/java/com/itheima/config/SpringConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../..//JAVACode/springmvc/result/src/main/java/com/itheima/config/SpringMvcConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../..//JAVACode/springmvc/result/src/main/java/com/itheima/controller/BookController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../..//JAVACode/springmvc/result/src/main/java/com/itheima/dao/BookDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../..//JAVACode/springmvc/result/src/main/java/com/itheima/domain/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../..//JAVACode/springmvc/result/src/main/java/com/itheima/service/BookService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../..//JAVACode/springmvc/result/src/main/java/com/itheima/service/impl/BookServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../..//JAVACode/springmvc/result/src/main/resources/jdbc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../..//JAVACode/springmvc/result/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../..//JAVACode/springmvc/result/src/main/webapp/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../..//JAVACode/springmvc/result/src/test/java/com/itheima/service/BookServiceTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../..//JAVACode/springmvc/ssm/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../..//JAVACode/springmvc/ssm/src/main/java/com/itheima/service/BookService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../..//JAVACode/springmvc/ssm/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../..//JAVACode/springmvc/ssm/src/main/webapp/index.jsp" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:/apache-maven-3.6.1-bin/apache-maven-3.6.1" />
+        <option name="userSettingsFile" value="D:\apache-maven-3.6.1-bin\apache-maven-3.6.1\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2HtJKYvBuSemunQ6doJA7BSKCrv" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;MavenSettings&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;mysql&quot;
+    ]
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="proxy_pattern.dynamic_proxy" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.proxy_pattern.dynamic_proxy.Test">
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="proxy_pattern.static_proxy.Test" />
+      <module name="designpattern" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="proxy_pattern.static_proxy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="proxy_pattern.dynamic_proxy.Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="proxy_pattern.dynamic_proxy.Test" />
+      <module name="designpattern" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="proxy_pattern.dynamic_proxy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.proxy_pattern.dynamic_proxy.Test" />
+        <item itemvalue="Application.Test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2a87ffb0-02f1-44d3-8273-1843e25bdaad" name="Changes" comment="" />
+      <created>1669098385163</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1669098385163</updated>
+      <workItem from="1669098391208" duration="11170000" />
+      <workItem from="1669186388807" duration="1946000" />
+      <workItem from="1669623665237" duration="377000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
