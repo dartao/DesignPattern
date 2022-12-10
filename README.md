@@ -20,6 +20,6 @@ a repository about design pattern implemented in Java
 
   可以说是工厂模式的一个扩展，一个工厂可以生产多个大类产品。当抽象工厂模式只有一个产品体系的时候，就会退化为工厂模式。
 
-  ![1670657403256](C:\Users\User\AppData\Local\Temp\抽象工厂模式.png)
+  ![1670657403256](https://github.com/dartao/DesignPattern/blob/main/imgs/%E6%8A%BD%E8%B1%A1%E5%B7%A5%E5%8E%82%E6%A8%A1%E5%BC%8F.png)
 
   
