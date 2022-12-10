@@ -14,7 +14,7 @@ a repository about design pattern implemented in Java
 
   有4种角色：抽象工厂、抽象产品、具体工厂、具体产品。
 
-  ![1670657257164](https://github.com/dartao/DesignPattern/blob/main/imgs/%E6%8A%BD%E8%B1%A1%E5%B7%A5%E5%8E%82%E6%A8%A1%E5%BC%8F.png)
+  ![1670657257164](https://github.com/dartao/DesignPattern/blob/main/imgs/%E5%B7%A5%E5%8E%82%E6%A8%A1%E5%BC%8F.png)
 
 - 抽象工厂模式
 
